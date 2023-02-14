@@ -1,16 +1,15 @@
-### Hi there 👋
+### Julian Jean van Wijk 💻
+**`Software Developer (Frontend/Backend)`**
 
-<!--
-**jjwijk/jjwijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Graphic Design Student, freelance computer specialist and coder in the Rotterdam area in The Netherlands. Although I am currently studying Graphic Design at the Grafisch Lyceum in Rotterdam, I am combining my studies with freelance development work.
 
-Here are some ideas to get you started:
+Portfolio 🌐 "[https://julianjean.com/index.html]"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p>
+    <a href="https://www.linkedin.com/in/julian-van-wijk-6b480a220/">
+        <img src=""https://w7.pngwing.com/pngs/887/616/png-transparent-linkedin-icon-linkedin-text-rectangle-logo.png >
+    </a>
+
+</p>
