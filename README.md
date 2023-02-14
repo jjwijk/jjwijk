@@ -9,7 +9,7 @@ Portfolio 🌐 "[https://julianjean.com/index.html]"
 
 <p>
     <a href="https://www.linkedin.com/in/julian-van-wijk-6b480a220/">
-        <img src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-HD.png">
+        <img src="https://telecos.upc.edu/ca/shared/images/social/logos-rodons/linkedin-circle.png/@@images/image.png" width="100px" height="100px">
     </a>
 
 </p>
