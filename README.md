@@ -12,5 +12,9 @@ Portfolio 🌐 "[https://julianjean.com/index.html]"
     <a href="https://www.linkedin.com/in/julian-van-wijk-6b480a220/">
         <img src="https://telecos.upc.edu/ca/shared/images/social/logos-rodons/linkedin-circle.png/@@images/image.png" width="50px" height="50px">
     </a>
+    &
+    <a href="https://github.com/jjwijk">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50px" height="50px">
+    </a>
 
 </p>
