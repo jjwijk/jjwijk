@@ -14,7 +14,7 @@ Portfolio 🌐 "[https://julianjean.com/index.html]"
     </a>
     &
     <a href="https://github.com/jjwijk">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50px" height="50px">
+    <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" width="50px" height="50px">
     </a>
 
 </p>
