@@ -6,10 +6,11 @@ I am a Graphic Design Student, freelance computer specialist and coder in the Ro
 Portfolio 🌐 "[https://julianjean.com/index.html]"
 
 
+<h2>Social Media</h2>
 
 <p>
     <a href="https://www.linkedin.com/in/julian-van-wijk-6b480a220/">
-        <img src="https://telecos.upc.edu/ca/shared/images/social/logos-rodons/linkedin-circle.png/@@images/image.png" width="100px" height="100px">
+        <img src="https://telecos.upc.edu/ca/shared/images/social/logos-rodons/linkedin-circle.png/@@images/image.png" width="50px" height="50px">
     </a>
 
 </p>
