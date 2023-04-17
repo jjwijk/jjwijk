@@ -3,7 +3,7 @@
 
 I am a Graphic Design Student, freelance computer specialist and coder in the Rotterdam area in The Netherlands. Although I am currently studying Graphic Design at the Grafisch Lyceum in Rotterdam, I am combining my studies with freelance development work.
 
-Portfolio 🌐 "[https://julianjean.com/index.html]"
+Portfolio 🌐 "[ https://julianjean.com ]"
 
 
 <h2>Social Media</h2>
