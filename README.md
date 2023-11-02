@@ -1,19 +1,23 @@
-### Julian Jean van Wijk 💻
-**`Software Developer (Frontend/Backend)`**
+<h1 align="center">Julian Jean van Wijk</h1>
+<p align="center"><b>Software Developer (Frontend/Backend)</b></p>
 
-I am a Graphic Design Student, freelance computer specialist and coder in the Rotterdam area in The Netherlands. Although I am currently studying Graphic Design at the Grafisch Lyceum in Rotterdam, I am combining my studies with freelance development work.
+<p align="center">
+  <img src="https://julianjean.com/images/julianjean.png" alt="Julian Jean van Wijk" width="200px">
+</p>
 
-Portfolio 🌐 "[ https://julianjean.com ]"
+<p align="center">Graphic Design Student 🎨 | Freelance Computer Specialist 💻 | Coder 🚀</p>
 
+<p align="center">📍 Rotterdam, The Netherlands 🇳🇱</p>
 
-<h2>Social Media</h2>
+<h2 align="center">Portfolio 🌐 <a href="https://julianjean.com">julianjean.com</a></h2>
 
-<p>
-    <a href="https://www.linkedin.com/in/julian-van-wijk-6b480a220/">
-        <img src="https://telecos.upc.edu/ca/shared/images/social/logos-rodons/linkedin-circle.png/@@images/image.png" width="50px" height="50px">
-    </a>
-    <a href="https://github.com/jjwijk">
-    <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" width="50px" height="50px">
-    </a>
+<h2 align="center">Social Media 🌍</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/julian-van-wijk-6b480a220/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50px" height="50px">
+  </a>
+  <a href="https://github.com/jjwijk">
+    <img src="https://img.icons8.com/material-sharp/48/000000/github.png" alt="GitHub" width="50px" height="50px">
+  </a>
 </p>
