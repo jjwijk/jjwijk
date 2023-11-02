@@ -1,13 +1,16 @@
 # 🌟 About Me
 
-**Software Developer 🚀**
+**Professional Software Developer 🚀**
 
-Hello there! I'm a Graphic Design student based in Rotterdam, The Netherlands. I'm passionate about coding, and I'm combining my design skills with freelance development work.
+Greetings! I am a dedicated Graphic Design student based in Rotterdam, The Netherlands. My passion lies in the world of coding, and I am actively blending my design expertise with freelance software development.
 
 ### 🌐 Portfolio
-- [julianjean.com](https://julianjean.com)
+- Delve into my portfolio at [julianjean.com](https://julianjean.com)
 
 ### 📧 Contact
-- For business inquiries, you can reach me at: vanwijk@julianjean.com
+- For professional inquiries, please don't hesitate to contact me at: vanwijk@julianjean.com
 
-- You can learn more about me on [my website](https://julianjean.com). Let's connect and create something amazing together!
+### 🔗 LinkedIn
+- Let's connect and network on [LinkedIn](https://www.linkedin.com/in/julian-van-wijk-6b480a220/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
+
+- For a more comprehensive insight into my professional journey, you can visit [my website](https://julianjean.com). I look forward to connecting with you and collaborating on exceptional projects!
