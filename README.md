@@ -1,23 +1,12 @@
-<h1 align="center">Julian Jean van Wijk</h1>
-<p align="center"><b>Software Developer (Frontend/Backend)</b></p>
+# Julian Jean van Wijk
 
-<p align="center">
-  <img src="https://julianjean.com/images/julianjean.png" alt="Julian Jean van Wijk" width="200px">
-</p>
+**Software Developer (Frontend/Backend)**
 
-<p align="center">Graphic Design Student 🎨 | Freelance Computer Specialist 💻 | Coder 🚀</p>
+I am a Graphic Design Student, freelance computer specialist, and coder based in Rotterdam, The Netherlands. Currently, I am studying Graphic Design at the Grafisch Lyceum in Rotterdam and combining my studies with freelance development work.
 
-<p align="center">📍 Rotterdam, The Netherlands 🇳🇱</p>
+### Portfolio
+- [julianjean.com](https://julianjean.com)
 
-<h2 align="center">Portfolio 🌐 <a href="https://julianjean.com">julianjean.com</a></h2>
-
-<h2 align="center">Social Media 🌍</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/julian-van-wijk-6b480a220/">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn" width="30px" height="30px">
-  </a>
-  <a href="https://github.com/jjwijk">
-    <img src="https://img.icons8.com/ios/30/000000/github.png" alt="GitHub" width="30px" height="30px">
-  </a>
-</p>
+### Social Media
+- [LinkedIn](https://www.linkedin.com/in/julian-van-wijk-6b480a220)
+- [GitHub](https://github.com/jjwijk)
