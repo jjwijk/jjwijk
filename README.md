@@ -7,6 +7,7 @@ I am a Graphic Design Student, freelance computer specialist, and coder based in
 ### Portfolio
 - [julianjean.com](https://julianjean.com)
 
-### Social Media
-- [LinkedIn](https://www.linkedin.com/in/julian-van-wijk-6b480a220)
-- [GitHub](https://github.com/jjwijk)
+### Contact
+- For business inquiries, email me at: vanwijk@julianjean.com
+
+You can learn more about me on [my website](https://julianjean.com).
