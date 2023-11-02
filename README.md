@@ -1,9 +1,7 @@
 <h1 align="center">Julian Jean van Wijk</h1>
 <p align="center"><b>Software Developer (Frontend/Backend)</b></p>
 
-<p align="center">
-  <img src="https://julianjean.com/images/julianjean.png" alt="Julian Jean van Wijk" width="200px">
-</p>
+  <a src="https://julianjean.com/images/julianjean.png" alt="Julian Jean van Wijk">Website</a>
 
 <p align="center">Graphic Design Student 🎨 | Freelance Computer Specialist 💻 | Coder 🚀</p>
 
